@@ -5,10 +5,10 @@
             <p>小米商城</p>
         </div>
         <div class="footer-info">
-            <a href="https://www.baidu.com" target="_blank">河畔移交</a><span>|</span>
-            <a href="https://www.baidu.com" target="_blank">河畔移交VUE</a><span>|</span>
-            <a href="https://www.baidu.com" target="_blank">河畔移交</a><span>|</span>
-             <a href="https://www.baidu.com" target="_blank">河畔移交react</a>
+            <a href="https://www.baidu.com" target="_blank">购物商城</a><span>|</span>
+            <a href="https://www.baidu.com" target="_blank">何俊星VUE</a><span>|</span>
+            <a href="https://www.baidu.com" target="_blank">何俊星VUE</a><span>|</span>
+             <a href="https://www.baidu.com" target="_blank">购物商城</a>
         </div>
         <div class="copyright">
             copyright @2020XXXX<span>mi.future.com</span>XXXXXXX
