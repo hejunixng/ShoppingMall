@@ -11,7 +11,7 @@
              <a href="https://www.baidu.com" target="_blank">购物商城</a>
         </div>
         <div class="copyright">
-            copyright @2020XXXX<span>mi.future.com</span>XXXXXXX
+            copyright @2020XXXX<span>github.com/hejunixng</span>XXXXXXX
         </div>
     </div>
 </template>

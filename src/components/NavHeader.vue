@@ -164,7 +164,7 @@ export default {
     },
     mounted(){
         
-             this.getProductList();
+        this.getProductList();
         
          if(this.$route.params && this.$route.params.from == 'login' ){
                 this.getCartCount();
